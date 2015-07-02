@@ -80,7 +80,7 @@ That's it. Your hard disk can now safely fail.
 
 This page will consists of links to:
 
- - Relax-and-Recover manual page
+ - [Relax-and-Recover manual page](https://github.com/rear/rear/blob/master/doc/rear.8.asciidoc)
  - Relax-and-Recover user guide
    * Features
    * Installation
