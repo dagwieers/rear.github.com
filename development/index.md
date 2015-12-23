@@ -32,7 +32,7 @@ users and contributors alike.
 New releases are planned based on outstanding issues, new features and ongoing
 development. You can get an overview of the various milestones the project has
 defined and you can influence new releases by reporting issues and by
-contributing fixes at: <https://github.com/rear/rear/issues/milestones>
+contributing fixes at: <https://github.com/rear/rear/milestones>
 
 
 ### Contributing
